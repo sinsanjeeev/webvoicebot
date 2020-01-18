@@ -1,0 +1,10 @@
+---
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  name: webvoicebot
+  disk_quota: 512M
+  buildpacks:
+    - python_buildpack
+

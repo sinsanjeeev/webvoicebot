@@ -1,0 +1,9 @@
+.git
+.idea
+__pycache__
+data
+doc
+venv
+node_modules
+client
+document
